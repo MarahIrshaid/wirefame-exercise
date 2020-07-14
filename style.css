@@ -30,7 +30,11 @@ main section div img {
     margin-bottom: 30px;
     
 }
-
+/* #three {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+} */
 .one {
     margin: 15px;
 
@@ -39,7 +43,7 @@ main section div img {
 p {
     overflow: scroll;
     display: block;
-   
+   width: 360px;
     
 }
 
