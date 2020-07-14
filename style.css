@@ -1,0 +1,58 @@
+nav  {
+    display: inline;
+    text-decoration: none;
+    padding: 50px;
+}
+
+a {
+    float: right;
+    text-decoration: none;
+    padding-right: 50px;
+    scroll-padding-left: 50px;
+    padding-top: 40px;
+    color: black; 
+    font-family: 'Raleway', sans-serif;
+
+   
+}
+main section div img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+
+}
+ main section span img {
+     display: inline;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+
+}
+p {
+    overflow: scroll;
+    display: block;
+    font-size: small;
+    
+}
+
+    
+
+button {
+    transition-duration: 350 ms;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: black;
+    color: white;
+  }
+  footer {
+    background-color: #444444;
+    height: 60px;
+    width: 100%;
+    margin-top: 2%;
+}
